@@ -14,6 +14,9 @@ DAMN! CALM DOWN! So I've been thinking about to add:
 #### - Preinstalled office suite that is very similar to MS Office ( WPS Office for Linux? )
 #### - An appstore that can easily be understood ( NOOBS WITHOUT KNOWING HOW TO USE THE TERMINAL. )
 #### - Add a One-Click Windows Application support ( WITH ROBLOX INSTALLER! )
+#### - NVIDIA PROPRIERTARY Driver bullcrap ( NVIDIA, F*CK YOU! -Linus Torvalds )
 
 ## NOW WHAT IS YO B*TCH A$$ DOING NOW
-### - Researching how to build this in a kvm.
+#### [] Finding the best base distrobution
+#### [] LEARN how to make UI apps (For the appstore part ( maybe you wanna help 0w0 ) )
+#### [x] Creating some concepts in mind
