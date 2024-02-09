@@ -12,7 +12,7 @@ DAMN! CALM DOWN! So I've been thinking about to add:
 
 #### - Clean/Similar UI/UX for people who is transitioning to Linux
 #### - Preinstalled office suite that is very similar to MS Office ( WPS Office for Linux? )
-#### - An appstore that can easily be understood by people ( NOOBS WITHOUT KNOWING HOW TO USE THE TERMINAL. )
+#### - An appstore that can easily be understood ( NOOBS WITHOUT KNOWING HOW TO USE THE TERMINAL. )
 #### - Add a One-Click Windows Application support ( WITH ROBLOX INSTALLER! )
 
 ## NOW WHAT IS YO B*TCH A$$ DOING NOW
