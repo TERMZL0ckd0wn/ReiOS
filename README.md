@@ -18,9 +18,10 @@ I've not decided to use the OG Debian. Debian just works with all kinds f hardwa
 #### - Add a One-Click Windows Application support.
 #### - Integrate NVIDIA PROPRIERTARY Driver bullcrap ( NVIDIA, F#CK YOU! -Linus Torvalds )
 
-## List
+##  Todo List
 
 #### [x] Finding the best base distrobution
 #### [ ] LEARN how to make UI apps using flutter
+#### [ ] Appstore
 #### [x] Creating some concepts in mind
 #### [ ] Design the os's logo
