@@ -8,7 +8,7 @@ This distrobution is just a hobby project because i just wanted a linux distro t
 
 ## What is this distro based out of?
 
-I've not decided to use the OG Debian. Debian just works with all kinds f hardware but the installer and the way it installes packages by using the terminal is not beginner-friendly so thats why I choose Debian.
+I've not decided to use the OG Debian. Debian just works with all kinds of hardware but the way Debian installs on the system is not beginner-friendly so thats why I choose Debian.
 
 ## Features
 
